@@ -803,17 +803,17 @@ a[imageanchor="1"] {
 
 /*--- New Menu ----*/
 #cssmenu .home > a {
-    background: url('https://lh3.googleusercontent.com/-RczwMRJnAUs/WEkbpl8WlgI/AAAAAAABBjs/TxOqUj8ZS1c/s617/muasamtotnhat_logo.png') no-repeat -2px 0 #01abaa;
+    background: url('https://lh3.googleusercontent.com/-F3ipONrTwBQ/WEkdlLbJYrI/AAAAAAABBj4/_cWQV3KmxeE/s617/muasamtotnhat_logo.png') no-repeat 0 0 #01abaa;
     text-indent: -10000px;
     display: block;
     padding: 0;
-    width: 128px;
+    width: 100px;
     height: 30px;
     margin-top: 0px;
     padding-right: 1px
 }
 #cssmenu .home > a:hover {
-    background: url('https://lh3.googleusercontent.com/-RczwMRJnAUs/WEkbpl8WlgI/AAAAAAABBjs/TxOqUj8ZS1c/s617/muasamtotnhat_logo.png') no-repeat -2px 0 #01abaa;
+    background: url('https://lh3.googleusercontent.com/-F3ipONrTwBQ/WEkdlLbJYrI/AAAAAAABBj4/_cWQV3KmxeE/s617/muasamtotnhat_logo.png') no-repeat 0 0 #01abaa;
     text-indent: -10000px;
     display: block
 }
