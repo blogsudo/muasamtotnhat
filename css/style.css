@@ -783,7 +783,7 @@ a[imageanchor="1"] {
     position:absolute;
     right:0;
     top:0;
-    background-color: #fea680;
+    background-color: #11bdbc;
     padding: 0 10px;
     height: 30px;
     line-height: 30px;
@@ -894,7 +894,7 @@ a[imageanchor="1"] {
 #cssmenu > ul > li > span.no-link {
     font-family: Arial, sans-serif;
     font-weight: bold;
-    text-shadow: 1px 0 0 #005B9C;
+    text-shadow: 1px 0 0 #007979;
     padding: 8px 13px;
     font-size: 14px;
     text-decoration: none;
@@ -1008,7 +1008,7 @@ a[imageanchor="1"] {
 #cssmenu ul ul li a:hover,
 #cssmenu ul ul li span.no-link:hover {
     color: #ffffff;
-    background-color: #3D3D3D
+    background-color: #11bdbc
 }
 #cssmenu ul ul li.has-sub > a::after,
 #cssmenu ul ul li.has-sub > span.no-link::after {
@@ -2115,7 +2115,7 @@ only screen and (max-width: 768px) {
         list-style-type: none!important
     }
     span.no-link.hover-child {
-        background: #0079D2!important
+        background: #01abaa!important
     }
     .home-right {
         width: 60%
