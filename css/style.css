@@ -803,7 +803,7 @@ a[imageanchor="1"] {
 
 /*--- New Menu ----*/
 #cssmenu .home > a {
-    background: url('https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png') no-repeat -2px 0 #01abaa;
+    background: url('https://lh3.googleusercontent.com/-RczwMRJnAUs/WEkbpl8WlgI/AAAAAAABBjs/TxOqUj8ZS1c/s617/muasamtotnhat_logo.png') no-repeat -2px 0 #01abaa;
     text-indent: -10000px;
     display: block;
     padding: 0;
@@ -813,7 +813,7 @@ a[imageanchor="1"] {
     padding-right: 1px
 }
 #cssmenu .home > a:hover {
-    background: url('https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png') no-repeat -2px 0 #01abaa;
+    background: url('https://lh3.googleusercontent.com/-RczwMRJnAUs/WEkbpl8WlgI/AAAAAAABBjs/TxOqUj8ZS1c/s617/muasamtotnhat_logo.png') no-repeat -2px 0 #01abaa;
     text-indent: -10000px;
     display: block
 }
@@ -1122,14 +1122,6 @@ body,
 .bottom-links .links {
     display: inline;
     float: none
-}
-#cssmenu li.blogsudo a,
-#cssmenu li.blogsudo a:hover {
-    background: url('http://3.bp.blogspot.com/-6H9FvYy0ZWw/VLykHk6G9UI/AAAAAAAAECE/IU_I2htCKHE/s1600/blogsudo_logo.gif') no-repeat 8px 6px transparent;
-    width: 125px;
-    height: 34px;
-    text-indent: -10000px;
-    display: block
 }
 .nav-mesg,
 #blog-pager a.blog-pager-newer-link,
