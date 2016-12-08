@@ -188,7 +188,7 @@ a {
     text-decoration: none;
 }
 h3.post-title a:hover {
-    color: #DC2655!important
+    color: #ff8a57!important
 }
 a:hover {
     color: #111;
@@ -522,7 +522,7 @@ h4#comment-post-message {
     overflow: hidden
 }
 .menu-wrapper {
-    background: #2C9CED;
+    background: #01abaa;
     box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.25);
     border-bottom: 1px solid #fff;
     margin-bottom: 5px;
@@ -564,7 +564,7 @@ h4#comment-post-message {
     margin-left: 0;
     font: 10px Verdana;
     color: #FFF;
-    background: #2C9CED
+    background: #01abaa
 }
 .usual ul.idTabs a:hover {
     color: #FFF;
@@ -667,7 +667,7 @@ a[imageanchor=&quot;1&quot;] {
     font-size: 15px;
     padding: 8px 7px 0 10px!important;
     border-left: 0;
-    color: #FF688F;
+    color: #fea680;
     position: relative;
     height: 27px;
     background-color: #FAFAFA;
@@ -677,7 +677,7 @@ a[imageanchor=&quot;1&quot;] {
     font-weight: lighter;
     border-radius: 4px 4px 0 0;
     border: 1px solid;
-    border-color: #e5e6e9 #dfe0e4 #FF688F
+    border-color: #e5e6e9 #dfe0e4 #fea680
 }
 .item-thumbnail {
     width: 45px;
@@ -724,7 +724,7 @@ a[imageanchor=&quot;1&quot;] {
     position:absolute;
     right:2px;
     top:0;
-    background-color: #45B1FF;
+    background-color: #26bdbc;
     padding: 0 10px;
     height: 40px;
     line-height: 40px;
@@ -744,7 +744,7 @@ a[imageanchor=&quot;1&quot;] {
 
 /*--- New Menu ----*/
 #cssmenu .home > a {
-    background: url(&#39;https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png&#39;) no-repeat -2px 4px #2c9ced;
+    background: url(&#39;https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png&#39;) no-repeat -2px 4px #01abaa;
     text-indent: -10000px;
     display: block;
     padding: 0;
@@ -754,7 +754,7 @@ a[imageanchor=&quot;1&quot;] {
     padding-right: 1px
 }
 #cssmenu .home > a:hover {
-    background: url(&#39;https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png&#39;) no-repeat -2px 4px #2c9ced;
+    background: url(&#39;https://lh3.googleusercontent.com/-ySP7JKBvW-E/Vc3O2wuxguI/AAAAAAAAgh0/cWj9YsYfyKM/s119-Ic42/blogsudo.png&#39;) no-repeat -2px 4px #01abaa;
     text-indent: -10000px;
     display: block
 }
@@ -765,7 +765,7 @@ a[imageanchor=&quot;1&quot;] {
     font-weight: bold
 }
 #cssmenu .site-name > a:hover {
-    background-color: #FF688F;
+    background-color: #fea680;
     color: #fff
 }
 #cssmenu,
@@ -800,7 +800,7 @@ a[imageanchor=&quot;1&quot;] {
 #cssmenu {
     width: auto;
     line-height: 1;
-    background: #2C9CED;
+    background: #01abaa;
     position: relative;
     z-index: 9999
 }
@@ -935,7 +935,7 @@ a[imageanchor=&quot;1&quot;] {
     color: #dddddd
 }
 #cssmenu ul i.fa {
-    color: #FF688F;
+    color: #fea680;
     margin-right: 5px
 }
 #cssmenu ul i.fa-tablet {
@@ -987,7 +987,7 @@ a[imageanchor=&quot;1&quot;] {
 #cssmenu ul li span.no-link:hover {
     cursor: default;
     color: #fff;
-    background-color: #FF688F
+    background-color: #fea680
 }
 #cssmenu ul li span.no-link {
     -moz-user-select: none;
@@ -1024,7 +1024,7 @@ a[imageanchor=&quot;1&quot;] {
 }
 #cssmenu span.no-link.not-expanded,
 #cssmenu span.no-link.not-expanded:hover {
-    background-color: #2C9CED;
+    background-color: #01abaa;
 }
 .widget-item-control {
     position: absolute;
@@ -1102,11 +1102,11 @@ body,
 #blog-pager a.blog-pager-newer-link,
 #blog-pager a.blog-pager-older-link,
 a.home-link {
-    background: #2C9CED!important;
+    background: #01abaa!important;
 }
 .status-msg-wrap {
     width: 100%;
-    background: #2C9CED!important;
+    background: #01abaa!important;
 }
 /* Pager */
 
@@ -1131,14 +1131,14 @@ a.home-link {
 .displaypageNum a:hover,
 .showpage a:hover,
 .pagecurrent {
-    background: #2C9CED;
+    background: #01abaa;
     text-decoration: none;
     color: #fff;
 }
 #blog-pager .pagecurrent {
     font-weight: bold;
     color: #fff;
-    background: #2C9CED;
+    background: #01abaa;
 }
 .showpageOf {
     display: none!important
@@ -1328,9 +1328,9 @@ a.home-link {
 .most-recent-title {
     font-size: 15px;
     padding: 5px 7px 5px 0;
-    border-bottom: 1px solid #FF688F;
+    border-bottom: 1px solid #fea680;
     border-left: 0;
-    color: #FF688F;
+    color: #fea680;
     position: relative;
     height: 27px;
     background-color: #FAFAFA;
@@ -1346,7 +1346,7 @@ a.home-link {
 .most-recent-title a:hover,
 .post-body .ad-read a:hover {
     text-decoration: none;
-    color: #DC2655
+    color: #ff8a57
 }
 .top-title a.view-all {
     border: 0;
@@ -1555,7 +1555,7 @@ img[width=&#39;1&#39;] {
     margin-bottom: 15px
 }
 .r-content .ad-read a {
-    color: #FF688F
+    color: #fea680
 }
 .r-content .ad-link a {
     color: #737373;
@@ -1704,7 +1704,7 @@ h3.post-title a, .title-summary .entry-title {
         height: 320px;
         overflow-x: hidden;
         overflow-y: scroll;
-        background: #2C9CED
+        background: #01abaa
     }
     #cssmenu ul {
         width: 100%;
@@ -1740,7 +1740,7 @@ h3.post-title a, .title-summary .entry-title {
         border-bottom: 1px solid #0387E7;
     }
     #cssmenu ul.open ul li {
-        border-top: 1px solid #2C9CED;
+        border-top: 1px solid #01abaa;
         background-color: #1D8EEC
     }
     #cssmenu ul ul li a,
@@ -1851,7 +1851,7 @@ h3.post-title a, .title-summary .entry-title {
     }
     #cssmenu .home > a:hover {
         background-position-x: -2px;
-        background-color: #2c9ced
+        background-color: #01abaa
     }
     #cssmenu .site-name > a {
         border-right: 0;
