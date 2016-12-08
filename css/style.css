@@ -688,7 +688,7 @@ a[imageanchor="1"] {
     font-size: 15px;
     padding: 8px 7px 0 10px!important;
     border-left: 0;
-    color: #26bdbc;
+    color: #fea680;
     position: relative;
     height: 27px;
     background-color: #FAFAFA;
@@ -698,7 +698,7 @@ a[imageanchor="1"] {
     font-weight: lighter;
     border-radius: 4px 4px 0 0;
     border: 1px solid;
-    border-color: #e5e6e9 #dfe0e4 #26bdbc
+    border-color: #e5e6e9 #dfe0e4 #fea680
 }
 .label-title {
 	margin-top: 10px
@@ -783,7 +783,7 @@ a[imageanchor="1"] {
     position:absolute;
     right:0;
     top:0;
-    background-color: #26bdbc;
+    background-color: #fea680;
     padding: 0 10px;
     height: 30px;
     line-height: 30px;
@@ -824,7 +824,7 @@ a[imageanchor="1"] {
     font-weight: bold
 }
 #cssmenu .site-name > a:hover {
-    background-color: #26bdbc;
+    background-color: #fea680;
     color: #fff
 }
 #cssmenu,
@@ -994,7 +994,7 @@ a[imageanchor="1"] {
     color: #dddddd
 }
 #cssmenu ul i.fa {
-    color: #26bdbc;
+    color: #fea680;
     margin-right: 5px
 }
 #cssmenu ul i.fa-tablet {
@@ -1046,7 +1046,7 @@ a[imageanchor="1"] {
 #cssmenu ul li span.no-link:hover {
     cursor: default;
     color: #fff;
-    background-color: #26bdbc
+    background-color: #fea680
 }
 #cssmenu ul li span.no-link {
     -moz-user-select: none;
@@ -1345,9 +1345,9 @@ a.home-link {
 .most-recent-title {
     font-size: 15px;
     padding: 5px 7px 5px 0;
-    border-bottom: 1px solid #26bdbc;
+    border-bottom: 1px solid #fea680;
     border-left: 0;
-    color: #26bdbc;
+    color: #fea680;
     position: relative;
     height: 27px;
     background-color: #FAFAFA;
@@ -1593,7 +1593,7 @@ img[width='1'] {
     margin-bottom: 15px
 }
 .r-content .ad-read a {
-    color: #26bdbc
+    color: #fea680
 }
 .r-content .ad-link a {
     color: #737373;
@@ -1958,7 +1958,7 @@ h3.post-title a, .title-summary .entry-title {
         font-size: 15px;
         padding: 8px 7px 0 10px!important;
         border-left: 0;
-        color: #26bdbc;
+        color: #fea680;
         position: relative;
         height: 27px;
         background-color: #FAFAFA;
@@ -1968,7 +1968,7 @@ h3.post-title a, .title-summary .entry-title {
         font-weight: lighter;
         border-radius: 4px 4px 0 0;
         border: 1px solid;
-        border-color: #e5e6e9 #dfe0e4 #26bdbc
+        border-color: #e5e6e9 #dfe0e4 #fea680
     }
     @media (min-width: 175px) {
         .r-content .ad #google-ads-1 {
