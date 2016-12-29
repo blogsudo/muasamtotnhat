@@ -1619,6 +1619,9 @@ h3.post-title a, .title-summary .entry-title {
 .fixfixed header{
   position:absolute
 }
+.widget .post-body #body-content ul {
+  margin: 0 0 1.5em;
+}
 #body-content ul > li > div > br {
   display: none;
 }
