@@ -1619,7 +1619,7 @@ h3.post-title a, .title-summary .entry-title {
 .fixfixed header{
   position:absolute
 }
-.content ul > li > div > br {
+#body-content ul > li > div > br {
   display: none;
 }
 
