@@ -1616,6 +1616,12 @@ p.breadcrumbs {
 h3.post-title a, .title-summary .entry-title {
     font-family: Arial, sans-serif!important
 }
+.fixfixed header{
+  position:absolute
+}
+.content ul > li > div > br {
+  display: none;
+}
 
 /* Mobile */
 
